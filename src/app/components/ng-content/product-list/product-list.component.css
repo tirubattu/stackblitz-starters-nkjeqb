@@ -1,0 +1,12 @@
+.container {
+  display: inline;
+}
+
+.content-box {
+  width: 150px;
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid #000000;
+}
+
+
